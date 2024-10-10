@@ -1,7 +1,7 @@
 # GitHub
 
 ## Co je GitHub?
-GitHub je platforma pro správu a verzování kódu, která je postavená na systému Git. Umožňuje vývojářům spolupracovat na projektech, sledovat změny v kódu, vytvářet nové funkce a sdílet své projekty s komunitou. GitHub je základním nástrojem pro open-source projekty, ale také se hojně využívá v komerčních týmech a individuálních projektech.
+GitHub je platforma pro správu a verzování kódu, která je postavená na systému Git. Umožňuje vývojářům spolupracovat na projektech, sledovat změny v kódu, vytvářet nové funkce a sdílet své projekty s komunitou. GitHub je základním nástrojem pro open-source projekty, ale také se hojně využívá v komerčních týmech a individuálních projektech. Také zde najdeš i videa díky kterým uvidíš jak přesněji postupovat.
 
 ## Vytvoření repozitáře
 
