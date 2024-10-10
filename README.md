@@ -6,7 +6,7 @@ GitHub je platforma pro správu a verzování kódu, která je postavená na sys
 ## Vytvoření repozitáře
 
 ### Jak vytvořit nový repozitář:
-1. Zajdeme do Your repositoris
+1. Zajdeme do `Your repositoris`
 
 2. Vyplníme informace o repozitáři:
    - **Repository name**: Název vašeho repozitáře.
